@@ -4,3 +4,6 @@
 [submodule "aocd02"]
 	path = aocd02
 	url = https://github.com/przant/aocd02.git
+[submodule "aocd03"]
+	path = aocd03
+	url = https://github.com/przant/aocd03.git
