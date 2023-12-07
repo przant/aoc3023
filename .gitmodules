@@ -1,0 +1,3 @@
+[submodule "aocd01"]
+	path = aocd01
+	url = https://github.com/przant/aocd01.git
