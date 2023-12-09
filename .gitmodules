@@ -16,3 +16,6 @@
 [submodule "aocd07"]
 	path = aocd07
 	url = https://github.com/przant/aocd07.git
+[submodule "aocd08"]
+	path = aocd08
+	url = https://github.com/przant/aocd08.git
